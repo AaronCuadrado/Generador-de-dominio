@@ -1,10 +1,8 @@
-
 // constantes con las opciones
 const pronombre = ["mi", "tu", "su"];
 const adjetivo = ["triste", "frustrante", "ridiculo"];
 const sustantivo = ["vida", "suerte", "problema"];
 const extensiones = [".com", ".es", ".net"];
-
 
 // forin para generar TODOS los dominios
 for (let i = 0; i < pronombre.length; i++) {
